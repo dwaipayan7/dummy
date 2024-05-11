@@ -1,0 +1,5 @@
+pyresparser
+scikit-learn
+nltk
+flask
+flask-cors
